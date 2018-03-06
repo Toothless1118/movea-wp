@@ -1,0 +1,573 @@
+# Copyright (c) 2017 GoDaddy Operating Company, LLC. All Rights Reserved.
+msgid ""
+msgstr ""
+"Project-Id-Version: System Plugin 3.5.0\n"
+"POT-Creation-Date: 2017-03-30 17:39:12+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Generator: grunt-wp-i18n1.0.0\n"
+
+#: gd-system-plugin/includes/admin/class-bar.php:105
+#: gd-system-plugin/includes/admin/class-pages.php:242
+#: gd-system-plugin/includes/admin/class-pages.php:243
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#: gd-system-plugin/includes/admin/class-bar.php:139
+msgid "Media Temple"
+msgstr "Media Temple"
+
+#: gd-system-plugin/includes/admin/class-bar.php:150
+msgid "Managed WordPress"
+msgstr "Beheerde WordPress"
+
+#: gd-system-plugin/includes/admin/class-bar.php:192
+msgid "Flush Cache"
+msgstr "Cache leegmaken"
+
+#: gd-system-plugin/includes/admin/class-bar.php:219
+msgid "Account Settings"
+msgstr "Accountinstellingen"
+
+#: gd-system-plugin/includes/admin/class-file-editor.php:78
+msgid "File editing enabled"
+msgstr "Bestand bewerken ingeschakeld"
+
+#: gd-system-plugin/includes/admin/class-file-editor.php:135
+msgid "File editing is not enabled on this site."
+msgstr "Bestand bewerken is niet ingeschakeld op deze site."
+
+#: gd-system-plugin/includes/admin/class-file-editor.php:170
+msgid "File Editor"
+msgstr "Bestandseditor"
+
+#: gd-system-plugin/includes/admin/class-file-editor.php:171
+msgid "For your security, the WordPress file editor is disabled by default."
+msgstr "We hebben voor de zekerheid de bestandseditor van WordPress standaard uitgeschakeld."
+
+#: gd-system-plugin/includes/admin/class-file-editor.php:171
+#: gd-system-plugin/includes/admin/class-pages.php:528
+#: gd-system-plugin/includes/admin/class-pages.php:666
+msgid "Learn More"
+msgstr "Meer informatie"
+
+#: gd-system-plugin/includes/admin/class-file-editor.php:172
+msgid ""
+"If you enable file editing all plugin and theme files on the server will "
+"become editable."
+msgstr ""
+"Als je het bewerken van bestanden inschakelt, kun je alle plug-in- en "
+"themabestanden op de server bewerken."
+
+#: gd-system-plugin/includes/admin/class-file-editor.php:176
+msgid "I understand the risks involved with enabling this feature"
+msgstr "Ik begrijp de risico's van het inschakelen van deze functie"
+
+#: gd-system-plugin/includes/admin/class-file-editor.php:179
+msgid "Enable File Editing"
+msgstr "Bewerken van bestanden inschakelen"
+
+#: gd-system-plugin/includes/admin/class-growl.php:102
+msgid "Success"
+msgstr "Geslaagd"
+
+#: gd-system-plugin/includes/admin/class-pages.php:94
+msgid "FAQ &amp; Support"
+msgstr "Veelgestelde vragen en support"
+
+#: gd-system-plugin/includes/admin/class-pages.php:95
+msgid "Hire a Pro"
+msgstr "Een professional inhuren"
+
+#: gd-system-plugin/includes/admin/class-pages.php:96
+msgid "Plugin Partners"
+msgstr "Plug-in-partners"
+
+#: gd-system-plugin/includes/admin/class-pages.php:352
+msgid "Are you sure? This cannot be undone."
+msgstr "Weet je het zeker? Deze actie kan niet ongedaan worden gemaakt."
+
+#: gd-system-plugin/includes/admin/class-pages.php:512
+msgid "Stuck in a rut? We can help."
+msgstr "Zie je het even niet meer zitten? Wij kunnen je helpen."
+
+#: gd-system-plugin/includes/admin/class-pages.php:522
+msgid ""
+"Having a pro build your business' website is the fast, cost-effective way "
+"to a great-looking, branded web presence."
+msgstr ""
+"Laat een expert je zakelijke website bouwen: een voordelige manier om een "
+"geweldige site te krijgen voor je merk."
+
+#: gd-system-plugin/includes/admin/class-pages.php:546
+msgid "Hide this tab"
+msgstr "Dit tabblad verbergen"
+
+#: gd-system-plugin/includes/admin/class-pages.php:566
+msgid "Meet the plugins that meet our high standards."
+msgstr "Maak kennis de plug-ins die aan onze strenge normen voldoen."
+
+#: gd-system-plugin/includes/admin/class-pages.php:568
+msgid ""
+"We've partnered with the world's top WordPress plugin authors to provide a "
+"list of plugins that work well with GoDaddy WordPress hosting."
+msgstr ""
+"We werken samen met mondiaal toonaangevende schrijvers op het vlak van "
+"WordPress-plug-in om een lijst te kunnen bieden van plug-ins die goed werken "
+"in combinatie met WordPress-hosting van GoDaddy."
+
+#: gd-system-plugin/includes/admin/class-pages.php:578
+msgid "Plugins list"
+msgstr "Lijst met plug-ins"
+
+#: gd-system-plugin/includes/admin/class-pages.php:586
+msgid ""
+"Whoops! There was a problem fetching the list of plugins, please try "
+"reloading this page."
+msgstr ""
+"Oeps. Er is een probleem opgetreden bij het ophalen van de lijst met "
+"plug-ins. Probeer het probleem op te lossen door de pagina opnieuw te laden."
+
+#: gd-system-plugin/includes/admin/class-pages.php:652
+msgid "Install Now"
+msgstr "Nu installeren"
+
+#: gd-system-plugin/includes/admin/class-pages.php:656
+msgid "Update Now"
+msgstr "Nu bijwerken"
+
+#: gd-system-plugin/includes/admin/class-pages.php:660
+msgid "This plugin is already installed and is up to date"
+msgstr "Deze plug-ins is al geïnstalleerd en bijgewerkt"
+
+#: gd-system-plugin/includes/admin/class-pages.php:680
+msgid "By %s"
+msgstr "Van %s"
+
+#: gd-system-plugin/includes/admin/class-pointers.php:49
+msgid "Good news!"
+msgstr "Goed nieuws."
+
+#: gd-system-plugin/includes/admin/class-pointers.php:50
+msgid ""
+"You can now access <strong>Flush Cache</strong> and other links directly "
+"from the admin bar using your desktop or mobile device."
+msgstr ""
+"Je hebt op je desktop of mobiele apparaat voortaan vanuit de beheerbalk "
+"rechtstreeks toegang tot <strong>Cache legen</strong> en andere koppelingen."
+
+#: gd-system-plugin/includes/admin/class-themes-tab.php:88
+msgid "GoDaddy Themes"
+msgstr "GoDaddy-thema‘s"
+
+#: gd-system-plugin/includes/admin/class-themes-tab.php:89
+#: gd-system-plugin/includes/admin/class-themes-tab.php:186
+msgid "Installed"
+msgstr "Geïnstalleerd"
+
+#: gd-system-plugin/includes/admin/class-themes-tab.php:90
+msgid "Error Installing Theme"
+msgstr "Fout bij het installeren van het thema"
+
+#: gd-system-plugin/includes/admin/class-themes-tab.php:91
+#: gd-system-plugin/includes/admin/class-themes-tab.php:190
+msgid "Activate"
+msgstr "Activeren"
+
+#: gd-system-plugin/includes/admin/class-themes-tab.php:92
+#: gd-system-plugin/includes/admin/class-themes-tab.php:192
+msgid "Live Preview"
+msgstr "Livevoorbeeld"
+
+#: gd-system-plugin/includes/admin/class-themes-tab.php:93
+msgid "Theme Install"
+msgstr "Thema installeren"
+
+#: gd-system-plugin/includes/admin/class-themes-tab.php:170
+msgid "Install %s"
+msgstr "%s installeren"
+
+#: gd-system-plugin/includes/admin/class-themes-tab.php:173
+msgid "Install"
+msgstr "Installeren"
+
+#: gd-system-plugin/includes/admin/class-themes-tab.php:214
+msgid "View Demo"
+msgstr "Bekijk demo"
+
+#: gd-system-plugin/includes/admin/class-themes-tab.php:215
+msgid "By GoDaddy"
+msgstr "Bij GoDaddy"
+
+#: gd-system-plugin/includes/class-blacklist.php:222
+msgid "Not Available"
+msgstr "Niet beschikbaar"
+
+#: gd-system-plugin/includes/class-blacklist.php:223
+msgid ""
+"This plugin is not allowed on our system due to performance, security, or "
+"compatibility concerns. Please contact support with any questions."
+msgstr ""
+"Deze plug-in is niet toegestaan op ons systeem om redenen van prestatie, "
+"veiligheid of compatibiliteit. Neem contact op met onze support als je vragen hebt."
+
+#: gd-system-plugin/includes/class-cache.php:116
+msgid "Cache cleared"
+msgstr "Cache geleegd"
+
+#: gd-system-plugin/includes/class-change-domain.php:59
+#: gd-system-plugin/includes/class-change-domain.php:78
+#: gd-system-plugin/includes/class-change-domain.php:141
+#: gd-system-plugin/includes/class-change-domain.php:152
+#: gd-system-plugin/includes/class-temp-domain.php:113
+#: gd-system-plugin/includes/class-temp-domain.php:120
+msgid "Note:"
+msgstr "Opmerking:"
+
+#: gd-system-plugin/includes/class-change-domain.php:68
+#: gd-system-plugin/includes/class-temp-domain.php:129
+msgid "Change domain"
+msgstr "Domein wijzigen"
+
+#: gd-system-plugin/includes/class-change-domain.php:140
+msgid "%s This is your staging site and the domain cannot be changed."
+msgstr "%s Dit is je stagingsite en het domein kan niet worden gewijzigd."
+
+#: gd-system-plugin/includes/class-sso.php:128
+msgid ""
+"We were unable to log you in automatically. Please enter your WordPress "
+"username and password."
+msgstr ""
+"We kunnen je niet automatisch aanmelden. Voer je gebruikersnaam en wachtwoord "
+"van WordPress in."
+
+#: gd-system-plugin/includes/class-temp-domain.php:44
+msgid ""
+"<strong>Note:</strong> You're using the temporary domain "
+"<strong>%s</strong>. <a href=\"%s\" target=\"_blank\">Change domain</a>"
+msgstr ""
+"<strong>Opmerking:</strong> Je gebruikt het tijdelijke domein "
+"<strong>%s</strong>. <a href=\"%s\" target=\"_blank\">Wijzig domein</a>"
+
+#: gd-system-plugin/includes/class-temp-domain.php:112
+msgid "%s This is your staging site and it cannot be indexed by search engines."
+msgstr "%s Dit is je tijdelijke site. Deze kan niet worden geïndexeerd door zoekmachines."
+
+#: gd-system-plugin/includes/class-temp-domain.php:119
+msgid ""
+"%s Your site is using a temporary domain that cannot be indexed by search "
+"engines."
+msgstr ""
+"%s Je site gebruikt een tijdelijk domein dat niet kan worden geïndexeerd door zoekmachines."
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:24
+msgid "Background Attachment"
+msgstr "Bevestiging achtergrond"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:25
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:26
+msgid "Background Image"
+msgstr "Achtergrondafbeelding"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:27
+msgid "Background Position"
+msgstr "Positie achtergrond"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:28
+msgid "Background Repeat"
+msgstr "Herhaling achtergrond"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:29
+msgid "Base Color Scheme"
+msgstr "Basiskleuren"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:30
+msgid "Logo"
+msgstr "Logo"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:31
+msgid "Header and Sidebar Background Color"
+msgstr "Achtergrondkleur kop en zijbalk"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:32
+msgid "Header Image"
+msgstr "Kopafbeelding"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:33
+msgid "Display Site Title and Tagline"
+msgstr "Titel en tagline van site weergeven"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:34
+msgid "Header Text Color"
+msgstr "Tekstkleur kop"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:35
+msgid "Link Color"
+msgstr "Linkkleur"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:36
+msgid "Main Text Color"
+msgstr "Kleur hoofdtekst"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:37
+msgid "Page Background Color"
+msgstr "Achtergrondkleur pagina"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:38
+msgid "Secondary Text Color"
+msgstr "Kleur secundaire tekst"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:39
+msgid "Header and Sidebar Text Color"
+msgstr "Tekstkleur kop en zijbalk"
+
+#: gd-system-plugin/includes/log/components/class-option.php:28
+msgid "Site Title"
+msgstr "Sitetitel"
+
+#: gd-system-plugin/includes/log/components/class-option.php:29
+msgid "Tagline"
+msgstr "Slogan"
+
+#: gd-system-plugin/includes/log/components/class-option.php:30
+msgid "Posts page"
+msgstr "Berichtenpagina"
+
+#: gd-system-plugin/includes/log/components/class-option.php:31
+msgid "Front page"
+msgstr "Voorpagina"
+
+#: gd-system-plugin/includes/log/components/class-option.php:32
+msgid "Front page displays"
+msgstr "Voorpagina toont"
+
+#: gd-system-plugin/includes/log/components/class-option.php:33
+msgid "Site Icon"
+msgstr "Sitepictogram"
+
+#: gd-system-plugin/includes/log/components/class-option.php:34
+msgid "Site Language"
+msgstr "Sitetaal"
+
+#: gd-system-plugin/includes/log/components/trait-post-helpers.php:85
+msgid "Post"
+msgstr "Publiceren"
+
+#: gd-system-plugin/includes/log/components/trait-post-helpers.php:149
+msgid "M j, Y @ H:i"
+msgstr "M j, Y @ H:i"
+
+#: gd-system-plugin.php:129
+msgid "Note: This is a staging site."
+msgstr "Opmerking: Dit is een testomgeving."
+
+#. Plugin Name of the plugin/theme
+msgid "System Plugin"
+msgstr "Systeemplug-in"
+
+#: gd-system-plugin/includes/admin/class-dashboard-widgets.php:59
+msgctxt "The name of our company blog found at https://www.godaddy.com/garage"
+msgid "GoDaddy Garage"
+msgstr "GoDaddy Garage (GoDaddy-garage)"
+
+#: gd-system-plugin/includes/admin/class-pages.php:660
+msgctxt "plugin"
+msgid "Installed"
+msgstr "Geïnstalleerd"
+
+#: gd-system-plugin/includes/class-blacklist.php:94
+msgctxt "Name of the disallowed plugin"
+msgid "%s is not allowed on our system. It has been automatically deactivated."
+msgstr "%s is niet toegestaan op ons systeem. Het is automatisch uitgeschakeld."
+
+#: gd-system-plugin/includes/class-change-domain.php:58
+#: gd-system-plugin/includes/class-change-domain.php:151
+msgctxt "Title of alert in bold"
+msgid "%s Your domain cannot be changed here."
+msgstr "%s Je domein kan hier niet worden gewijzigd."
+
+#: gd-system-plugin/includes/class-change-domain.php:77
+msgctxt "Title of alert in bold"
+msgid "%s This is your staging site and the domain cannot be changed."
+msgstr "%s Dit is je stagingsite en het domein kan niet worden gewijzigd."
+
+#: gd-system-plugin/includes/log/components/class-beaverbuilder.php:71
+msgctxt "2. singular post type name (e.g. page), 1. post title"
+msgid "Beaver Builder %2$s \"%1$s\" drafted"
+msgstr "Beaver Builder %2$s %1$s aangenomen"
+
+#: gd-system-plugin/includes/log/components/class-beaverbuilder.php:94
+msgctxt "2. singular post type name (e.g. page), 1. post title"
+msgid "Beaver Builder %2$s \"%1$s\" discarded"
+msgstr "Beaver Builder %2$s %1$s afgewezen"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:90
+msgctxt "1. Option name, 2. Theme name"
+msgid "\"%1$s\" updated for the %2$s theme"
+msgstr "'%1$s' bijgewerkt voor het thema %2$s"
+
+#: gd-system-plugin/includes/log/components/class-option.php:78
+msgctxt "Option name"
+msgid "\"%s\" option updated"
+msgstr "Optie '%s' bijgewerkt"
+
+#: gd-system-plugin/includes/log/components/class-plugin.php:29
+msgctxt "Plugin name"
+msgid "\"%s\" plugin activated"
+msgstr "Plug-in '%s' ingeschakeld"
+
+#: gd-system-plugin/includes/log/components/class-plugin.php:37
+msgctxt "Plugin name"
+msgid "\"%s\" plugin activated network wide"
+msgstr "Plug-in '%s' voor het hele netwerk ingeschakeld"
+
+#: gd-system-plugin/includes/log/components/class-plugin.php:63
+msgctxt "Plugin name"
+msgid "\"%s\" plugin deactivated"
+msgstr "Plug-in '%s' uitgeschakeld"
+
+#: gd-system-plugin/includes/log/components/class-plugin.php:71
+msgctxt "Plugin name"
+msgid "\"%s\" plugin deactivated network wide"
+msgstr "Plug-in '%s' voor het hele netwerk uitgeschakeld"
+
+#: gd-system-plugin/includes/log/components/class-plugin.php:98
+msgctxt "Plugin name"
+msgid "\"%s\" plugin deleted"
+msgstr "Plug-in '%s' verwijderd"
+
+#: gd-system-plugin/includes/log/components/class-plugin.php:194
+msgctxt "Plugin name"
+msgid "\"%s\" plugin installed"
+msgstr "Plug-in '%s' verwijderd"
+
+#: gd-system-plugin/includes/log/components/class-plugin.php:230
+msgctxt "1: Plugin name, 2: New plugin version"
+msgid "\"%1$s\" plugin updated to %2$s"
+msgstr "Plug-in '%1$s' bijgewerkt naar %2$s"
+
+#: gd-system-plugin/includes/log/components/class-plugin.php:238
+msgctxt "1: Plugin name, 2: Old plugin version, 3: New plugin version"
+msgid "\"%1$s\" plugin updated from %2$s to %3$s"
+msgstr "Plug-in '%1$s' bijgewerkt van %2$s naar %3$s"
+
+#: gd-system-plugin/includes/log/components/class-post.php:49
+#: gd-system-plugin/includes/log/components/class-post.php:59
+msgctxt "1: Post title, 2: Post type singular name"
+msgid "\"%1$s\" %2$s updated"
+msgstr "'%1$s' %2$s bijgewerkt"
+
+#: gd-system-plugin/includes/log/components/class-post.php:70
+msgctxt "1: Post title, 2: Post type singular name"
+msgid "\"%1$s\" %2$s created"
+msgstr "'%1$s' %2$s gemaakt"
+
+#: gd-system-plugin/includes/log/components/class-post.php:81
+msgctxt "1: Post title, 2: Post type singular name"
+msgid "\"%1$s\" %2$s restored from trash"
+msgstr "'%1$s' %2$s hersteld vanuit prullenbak"
+
+#: gd-system-plugin/includes/log/components/class-post.php:91
+msgctxt "1: Post title, 2: Post type singular name"
+msgid "\"%1$s\" %2$s unpublished"
+msgstr "Publicatie van '%1$s' %2$s ongedaan gemaakt"
+
+#: gd-system-plugin/includes/log/components/class-post.php:101
+msgctxt "1: Post title, 2: Post type singular name"
+msgid "\"%1$s\" %2$s drafted"
+msgstr "Concept van '%1$s' %2$s gemaakt"
+
+#: gd-system-plugin/includes/log/components/class-post.php:111
+msgctxt "1: Post title, 2: Post type singular name"
+msgid "\"%1$s\" %2$s pending review"
+msgstr "'%1$s' %2$s in behandeling"
+
+#: gd-system-plugin/includes/log/components/class-post.php:131
+msgctxt "1: Post title, 2: Post type singular name"
+msgid "\"%1$s\" scheduled %2$s published"
+msgstr "'%1$s' gepland %2$s gepubliceerd"
+
+#: gd-system-plugin/includes/log/components/class-post.php:141
+msgctxt "1: Post title, 2: Post type singular name"
+msgid "\"%1$s\" %2$s published"
+msgstr "'%1$s' %2$s gepubliceerd"
+
+#: gd-system-plugin/includes/log/components/class-post.php:151
+msgctxt "1: Post title, 2: Post type singular name"
+msgid "\"%1$s\" %2$s privately published"
+msgstr "'%1$s' %2$s privé gepubliceerd"
+
+#: gd-system-plugin/includes/log/components/class-post.php:162
+msgctxt "1: Post title, 2: Post type singular name"
+msgid "\"%1$s\" %2$s trashed"
+msgstr "'%1$s' %2$s verplaatst naar prullenbak"
+
+#: gd-system-plugin/includes/log/components/class-post.php:121
+msgctxt "1: Post title, 2: Post type singular name, 3: Scheduled post date"
+msgid "\"%1$s\" %2$s scheduled for %3$s"
+msgstr "'%1$s' %2$s gepland voor %3$s"
+
+#: gd-system-plugin/includes/log/components/class-theme.php:48
+msgctxt "Theme name"
+msgid "\"%s\" theme activated"
+msgstr "Thema '%s' ingeschakeld"
+
+#: gd-system-plugin/includes/log/components/class-theme.php:117
+msgctxt "Theme name"
+msgid "\"%s\" theme installed"
+msgstr "Het thema %s is geïnstalleerd"
+
+#: gd-system-plugin/includes/log/components/class-theme.php:154
+msgctxt "1: theme name, 2: New theme version"
+msgid "\"%1$s\" theme updated to %2$s"
+msgstr "Het thema %1$s is bijgewerkt naar %2$s"
+
+#: gd-system-plugin/includes/log/components/class-theme.php:162
+msgctxt "1: Theme name, 2: Old theme version, 3: New theme version"
+msgid "\"%1$s\" theme updated from %2$s to %3$s"
+msgstr "Het thema %1$s is bijgewerkt van %2$s naar %3$s"
+
+#: gd-system-plugin/includes/log/components/class-user.php:99
+msgctxt "1. User display name, 2. User role"
+msgid "%1$s's user account deleted (%2$s)"
+msgstr "Account van gebruiker %1$s verwijderd (%2$s)"
+
+#: gd-system-plugin/includes/log/components/class-user.php:138
+msgctxt "User display name"
+msgid "%s's user profile updated"
+msgstr "Profiel van gebruiker %s bijgewerkt"
+
+#: gd-system-plugin/includes/log/components/class-user.php:225
+msgctxt "User display name"
+msgid "%s logged in"
+msgstr "%s heeft zich aangemeld"
+
+#: gd-system-plugin/includes/log/components/class-user.php:258
+msgctxt "User display name"
+msgid "%s logged out"
+msgstr "%s heeft zich afgemeld"
+
+#: gd-system-plugin/includes/log/components/class-user.php:292
+msgctxt "User display name"
+msgid "%s requested a password reset"
+msgstr "%s wil het wachtwoord opnieuw instellen"
+
+#: gd-system-plugin/includes/log/components/class-user.php:324
+msgctxt "User display name"
+msgid "%s's password reset"
+msgstr "Opnieuw instellen van wachtwoord van %s"
+
+#: gd-system-plugin/includes/log/components/class-user.php:180
+msgctxt "1: User display name, 2: Old role, 3: New role"
+msgid "%1$s's role changed from %2$s to %3$s"
+msgstr "Rol van %1$s gewijzigd van %2$s naar %3$s"

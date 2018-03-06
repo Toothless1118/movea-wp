@@ -1,0 +1,574 @@
+# Copyright (c) 2017 GoDaddy Operating Company, LLC. All Rights Reserved.
+msgid ""
+msgstr ""
+"Project-Id-Version: System Plugin 3.5.0\n"
+"POT-Creation-Date: 2017-03-30 17:39:12+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Generator: grunt-wp-i18n1.0.0\n"
+
+#: gd-system-plugin/includes/admin/class-bar.php:105
+#: gd-system-plugin/includes/admin/class-pages.php:242
+#: gd-system-plugin/includes/admin/class-pages.php:243
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#: gd-system-plugin/includes/admin/class-bar.php:139
+msgid "Media Temple"
+msgstr "Media Temple"
+
+#: gd-system-plugin/includes/admin/class-bar.php:150
+msgid "Managed WordPress"
+msgstr "WordPress-hallinta"
+
+#: gd-system-plugin/includes/admin/class-bar.php:192
+msgid "Flush Cache"
+msgstr "Tyhjennä välimuisti"
+
+#: gd-system-plugin/includes/admin/class-bar.php:219
+msgid "Account Settings"
+msgstr "Tilin asetukset"
+
+#: gd-system-plugin/includes/admin/class-file-editor.php:78
+msgid "File editing enabled"
+msgstr "Tiedoston muokkaus käytössä"
+
+#: gd-system-plugin/includes/admin/class-file-editor.php:135
+msgid "File editing is not enabled on this site."
+msgstr "Tiedoston muokkaus ei ole käytössä tässä sivustossa."
+
+#: gd-system-plugin/includes/admin/class-file-editor.php:170
+msgid "File Editor"
+msgstr "Tiedostoeditori"
+
+#: gd-system-plugin/includes/admin/class-file-editor.php:171
+msgid "For your security, the WordPress file editor is disabled by default."
+msgstr "Turvallisuuden vuoksi WordPress-tiedostoeditori on poistettu käytöstä oletuksena."
+
+#: gd-system-plugin/includes/admin/class-file-editor.php:171
+#: gd-system-plugin/includes/admin/class-pages.php:528
+#: gd-system-plugin/includes/admin/class-pages.php:666
+msgid "Learn More"
+msgstr "Lue lisää"
+
+#: gd-system-plugin/includes/admin/class-file-editor.php:172
+msgid ""
+"If you enable file editing all plugin and theme files on the server will "
+"become editable."
+msgstr ""
+"Jos otat tiedostojen muokkauksen käyttöön, kaikki palvelimessa olevat plugin- "
+"ja teematiedostot ovat muokattavissa."
+
+#: gd-system-plugin/includes/admin/class-file-editor.php:176
+msgid "I understand the risks involved with enabling this feature"
+msgstr "Ymmärrän tämän ominaisuuden käyttöön ottoon liittyvät riskit."
+
+#: gd-system-plugin/includes/admin/class-file-editor.php:179
+msgid "Enable File Editing"
+msgstr "Ota tiedostojen muokkaus käyttöön"
+
+#: gd-system-plugin/includes/admin/class-growl.php:102
+msgid "Success"
+msgstr "Onnistui"
+
+#: gd-system-plugin/includes/admin/class-pages.php:94
+msgid "FAQ &amp; Support"
+msgstr "Usein kysytyt kysymykset ja tuki"
+
+#: gd-system-plugin/includes/admin/class-pages.php:95
+msgid "Hire a Pro"
+msgstr "Ota apuun ammattilainen"
+
+#: gd-system-plugin/includes/admin/class-pages.php:96
+msgid "Plugin Partners"
+msgstr "Plugin-kumppanit"
+
+#: gd-system-plugin/includes/admin/class-pages.php:352
+msgid "Are you sure? This cannot be undone."
+msgstr "Oletko varma? Tätä ei voida kumota."
+
+#: gd-system-plugin/includes/admin/class-pages.php:512
+msgid "Stuck in a rut? We can help."
+msgstr "Oletko jämähtänyt paikoillesi? Me voimme auttaa."
+
+#: gd-system-plugin/includes/admin/class-pages.php:522
+msgid ""
+"Having a pro build your business' website is the fast, cost-effective way "
+"to a great-looking, branded web presence."
+msgstr ""
+"Ammattilaisen suunnittelema sivusto on nopein ja edullisin tapa luoda "
+"hyvännäköinen, yrityksesi brändiä vahvistava tapa toimia verkossa."
+
+#: gd-system-plugin/includes/admin/class-pages.php:546
+msgid "Hide this tab"
+msgstr "Piilota tämä välilehti"
+
+#: gd-system-plugin/includes/admin/class-pages.php:566
+msgid "Meet the plugins that meet our high standards."
+msgstr "Tutustu korkeat vaatimuksemme täyttäviin plugin-laajennuksiin."
+
+#: gd-system-plugin/includes/admin/class-pages.php:568
+msgid ""
+"We've partnered with the world's top WordPress plugin authors to provide a "
+"list of plugins that work well with GoDaddy WordPress hosting."
+msgstr ""
+"Teemme yhteistyötä huippuluokan WordPress-plugin-suunnittelijoiden kanssa. "
+"Näin pystymme tarjoamaan joukon plugin-laajennuksia, jotka toimivat erityisen "
+"hyvin GoDaddyn WordPress-hallintapalvelun kanssa."
+
+#: gd-system-plugin/includes/admin/class-pages.php:578
+msgid "Plugins list"
+msgstr "Plugin-luettelo"
+
+#: gd-system-plugin/includes/admin/class-pages.php:586
+msgid ""
+"Whoops! There was a problem fetching the list of plugins, please try "
+"reloading this page."
+msgstr ""
+"Virhe. Plugin-laajennusten luettelon hakemisessa tapahtui virhe. Yritä ladata "
+"tämä sivu uudelleen."
+
+#: gd-system-plugin/includes/admin/class-pages.php:652
+msgid "Install Now"
+msgstr "Asenna nyt"
+
+#: gd-system-plugin/includes/admin/class-pages.php:656
+msgid "Update Now"
+msgstr "Päivitä nyt"
+
+#: gd-system-plugin/includes/admin/class-pages.php:660
+msgid "This plugin is already installed and is up to date"
+msgstr "Tämä laajennus on jo asennettuna ja ajan tasalla"
+
+#: gd-system-plugin/includes/admin/class-pages.php:680
+msgid "By %s"
+msgstr "– %s"
+
+#: gd-system-plugin/includes/admin/class-pointers.php:49
+msgid "Good news!"
+msgstr "Hyviä uutisia!"
+
+#: gd-system-plugin/includes/admin/class-pointers.php:50
+msgid ""
+"You can now access <strong>Flush Cache</strong> and other links directly "
+"from the admin bar using your desktop or mobile device."
+msgstr ""
+"Voit nyt käyttää linkkejä, esim. <strong>Tyhjennä välimuisti</strong>, "
+"suoraan hallintapalkista tietokoneella tai mobiililaitteella."
+
+#: gd-system-plugin/includes/admin/class-themes-tab.php:88
+msgid "GoDaddy Themes"
+msgstr "GoDaddy-teemat"
+
+#: gd-system-plugin/includes/admin/class-themes-tab.php:89
+#: gd-system-plugin/includes/admin/class-themes-tab.php:186
+msgid "Installed"
+msgstr "Asennettu"
+
+#: gd-system-plugin/includes/admin/class-themes-tab.php:90
+msgid "Error Installing Theme"
+msgstr "Virhe teeman asennuksessa"
+
+#: gd-system-plugin/includes/admin/class-themes-tab.php:91
+#: gd-system-plugin/includes/admin/class-themes-tab.php:190
+msgid "Activate"
+msgstr "Aktivoi"
+
+#: gd-system-plugin/includes/admin/class-themes-tab.php:92
+#: gd-system-plugin/includes/admin/class-themes-tab.php:192
+msgid "Live Preview"
+msgstr "Live-esikatselu"
+
+#: gd-system-plugin/includes/admin/class-themes-tab.php:93
+msgid "Theme Install"
+msgstr "Teeman asennus"
+
+#: gd-system-plugin/includes/admin/class-themes-tab.php:170
+msgid "Install %s"
+msgstr "Asenna %s"
+
+#: gd-system-plugin/includes/admin/class-themes-tab.php:173
+msgid "Install"
+msgstr "Asenna"
+
+#: gd-system-plugin/includes/admin/class-themes-tab.php:214
+msgid "View Demo"
+msgstr "Katso demo"
+
+#: gd-system-plugin/includes/admin/class-themes-tab.php:215
+msgid "By GoDaddy"
+msgstr "– GoDaddy"
+
+#: gd-system-plugin/includes/class-blacklist.php:222
+msgid "Not Available"
+msgstr "Ei saatavilla"
+
+#: gd-system-plugin/includes/class-blacklist.php:223
+msgid ""
+"This plugin is not allowed on our system due to performance, security, or "
+"compatibility concerns. Please contact support with any questions."
+msgstr ""
+"Tämä plugin-laajennus ei ole sallittu järjestelmässämme suorituskyky-, "
+"tietoturva- tai yhteensopivuusongelmien vuoksi. Jos sinulla on kysymyksiä, "
+"ota yhteyttä tukeen."
+
+#: gd-system-plugin/includes/class-cache.php:116
+msgid "Cache cleared"
+msgstr "Välimuisti tyhjennetty"
+
+#: gd-system-plugin/includes/class-change-domain.php:59
+#: gd-system-plugin/includes/class-change-domain.php:78
+#: gd-system-plugin/includes/class-change-domain.php:141
+#: gd-system-plugin/includes/class-change-domain.php:152
+#: gd-system-plugin/includes/class-temp-domain.php:113
+#: gd-system-plugin/includes/class-temp-domain.php:120
+msgid "Note:"
+msgstr "Huomautus:"
+
+#: gd-system-plugin/includes/class-change-domain.php:68
+#: gd-system-plugin/includes/class-temp-domain.php:129
+msgid "Change domain"
+msgstr "Vaihda verkkotunnus"
+
+#: gd-system-plugin/includes/class-change-domain.php:140
+msgid "%s This is your staging site and the domain cannot be changed."
+msgstr "%s Tämä on muokkaussivustosi, eikä verkkotunnusta voi muuttaa."
+
+#: gd-system-plugin/includes/class-sso.php:128
+msgid ""
+"We were unable to log you in automatically. Please enter your WordPress "
+"username and password."
+msgstr ""
+"Automaattinen sisäänkirjauksesi epäonnistui. Anna "
+"WordPress-käyttäjätunnuksesi ja salasanasi."
+
+#: gd-system-plugin/includes/class-temp-domain.php:44
+msgid ""
+"<strong>Note:</strong> You're using the temporary domain "
+"<strong>%s</strong>. <a href=\"%s\" target=\"_blank\">Change domain</a>"
+msgstr ""
+"<strong>Huomautus:</strong> Käytät tilapäistä verkkotunnusta "
+"<strong>%s</strong>. <a href=\"%s\" target=\"_blank\">Vaihda verkkotunnus</a>"
+
+#: gd-system-plugin/includes/class-temp-domain.php:112
+msgid "%s This is your staging site and it cannot be indexed by search engines."
+msgstr "%s Tämä on muokkaussivustosi, eivätkä hakukoneet voit indeksoida sitä."
+
+#: gd-system-plugin/includes/class-temp-domain.php:119
+msgid ""
+"%s Your site is using a temporary domain that cannot be indexed by search "
+"engines."
+msgstr ""
+"%s Sivustosi käyttää väliaikaista verkkotunnusta, jota hakukoneet eivät voi indeksoida."
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:24
+msgid "Background Attachment"
+msgstr "Taustan kiinnitys"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:25
+msgid "Background Color"
+msgstr "Taustaväri"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:26
+msgid "Background Image"
+msgstr "Taustakuva"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:27
+msgid "Background Position"
+msgstr "Taustan asento"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:28
+msgid "Background Repeat"
+msgstr "Taustan toisto"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:29
+msgid "Base Color Scheme"
+msgstr "Perusväri"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:30
+msgid "Logo"
+msgstr "Logo"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:31
+msgid "Header and Sidebar Background Color"
+msgstr "Otsikon ja sivupalkin taustan väri"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:32
+msgid "Header Image"
+msgstr "Otsikkokuva"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:33
+msgid "Display Site Title and Tagline"
+msgstr "Näytä sivuston nimi ja tunnuslause"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:34
+msgid "Header Text Color"
+msgstr "Otsikkotekstin väri"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:35
+msgid "Link Color"
+msgstr "Linkin väri"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:36
+msgid "Main Text Color"
+msgstr "Päätekstin väri"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:37
+msgid "Page Background Color"
+msgstr "Sivun taustaväri"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:38
+msgid "Secondary Text Color"
+msgstr "Toissijainen tekstin väri"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:39
+msgid "Header and Sidebar Text Color"
+msgstr "Otsikon ja sivupalkin tekstin väri"
+
+#: gd-system-plugin/includes/log/components/class-option.php:28
+msgid "Site Title"
+msgstr "Sivuston nimi"
+
+#: gd-system-plugin/includes/log/components/class-option.php:29
+msgid "Tagline"
+msgstr "Tunnuslause"
+
+#: gd-system-plugin/includes/log/components/class-option.php:30
+msgid "Posts page"
+msgstr "Julkaisusivu"
+
+#: gd-system-plugin/includes/log/components/class-option.php:31
+msgid "Front page"
+msgstr "Etusivu"
+
+#: gd-system-plugin/includes/log/components/class-option.php:32
+msgid "Front page displays"
+msgstr "Etusivunäytöt"
+
+#: gd-system-plugin/includes/log/components/class-option.php:33
+msgid "Site Icon"
+msgstr "Sivustokuvake"
+
+#: gd-system-plugin/includes/log/components/class-option.php:34
+msgid "Site Language"
+msgstr "Sivuston kieli"
+
+#: gd-system-plugin/includes/log/components/trait-post-helpers.php:85
+msgid "Post"
+msgstr "Lähetä"
+
+#: gd-system-plugin/includes/log/components/trait-post-helpers.php:149
+msgid "M j, Y @ H:i"
+msgstr "M j, Y @ H:i"
+
+#: gd-system-plugin.php:129
+msgid "Note: This is a staging site."
+msgstr "Huomautus: Tämä on valmistelusivusto."
+
+#. Plugin Name of the plugin/theme
+msgid "System Plugin"
+msgstr "Järjestelmälaajennus"
+
+#: gd-system-plugin/includes/admin/class-dashboard-widgets.php:59
+msgctxt "The name of our company blog found at https://www.godaddy.com/garage"
+msgid "GoDaddy Garage"
+msgstr "GoDaddy Garage (GoDaddy-talli)"
+
+#: gd-system-plugin/includes/admin/class-pages.php:660
+msgctxt "plugin"
+msgid "Installed"
+msgstr "Asennettu"
+
+#: gd-system-plugin/includes/class-blacklist.php:94
+msgctxt "Name of the disallowed plugin"
+msgid "%s is not allowed on our system. It has been automatically deactivated."
+msgstr "%s ei ole sallittu järjestelmässämme. Se on poistettu käytöstä automaattisesti."
+
+#: gd-system-plugin/includes/class-change-domain.php:58
+#: gd-system-plugin/includes/class-change-domain.php:151
+msgctxt "Title of alert in bold"
+msgid "%s Your domain cannot be changed here."
+msgstr "%s Verkkotunnustasi ei voi muuttaa täällä."
+
+#: gd-system-plugin/includes/class-change-domain.php:77
+msgctxt "Title of alert in bold"
+msgid "%s This is your staging site and the domain cannot be changed."
+msgstr "%s Tämä on muokkaussivustosi, eikä verkkotunnusta voi muuttaa."
+
+#: gd-system-plugin/includes/log/components/class-beaverbuilder.php:71
+msgctxt "2. singular post type name (e.g. page), 1. post title"
+msgid "Beaver Builder %2$s \"%1$s\" drafted"
+msgstr "Beaver Builder %2$s \"%1$s\" luonnostelu"
+
+#: gd-system-plugin/includes/log/components/class-beaverbuilder.php:94
+msgctxt "2. singular post type name (e.g. page), 1. post title"
+msgid "Beaver Builder %2$s \"%1$s\" discarded"
+msgstr "Beaver Builder %2$s \"%1$s\" hylätty"
+
+#: gd-system-plugin/includes/log/components/class-customizer.php:90
+msgctxt "1. Option name, 2. Theme name"
+msgid "\"%1$s\" updated for the %2$s theme"
+msgstr "\"%1$s\" päivitetty teemalle %2$s "
+
+#: gd-system-plugin/includes/log/components/class-option.php:78
+msgctxt "Option name"
+msgid "\"%s\" option updated"
+msgstr "\"%s\" päivitetty"
+
+#: gd-system-plugin/includes/log/components/class-plugin.php:29
+msgctxt "Plugin name"
+msgid "\"%s\" plugin activated"
+msgstr "\"%s\" (plugin) aktivoitu"
+
+#: gd-system-plugin/includes/log/components/class-plugin.php:37
+msgctxt "Plugin name"
+msgid "\"%s\" plugin activated network wide"
+msgstr "\"%s\" (plugin) aktivoitu koko verkossa"
+
+#: gd-system-plugin/includes/log/components/class-plugin.php:63
+msgctxt "Plugin name"
+msgid "\"%s\" plugin deactivated"
+msgstr "\"%s\" (plugin) poistettu käytöstä"
+
+#: gd-system-plugin/includes/log/components/class-plugin.php:71
+msgctxt "Plugin name"
+msgid "\"%s\" plugin deactivated network wide"
+msgstr "\"%s\" (plugin) poistettu käytöstä koko verkossa"
+
+#: gd-system-plugin/includes/log/components/class-plugin.php:98
+msgctxt "Plugin name"
+msgid "\"%s\" plugin deleted"
+msgstr "\"%s\" (plugin) poistettu"
+
+#: gd-system-plugin/includes/log/components/class-plugin.php:194
+msgctxt "Plugin name"
+msgid "\"%s\" plugin installed"
+msgstr "\"%s\" (plugin) asennettu"
+
+#: gd-system-plugin/includes/log/components/class-plugin.php:230
+msgctxt "1: Plugin name, 2: New plugin version"
+msgid "\"%1$s\" plugin updated to %2$s"
+msgstr "\"%1$s\" (plugin) päivitetty versioon %2$s"
+
+#: gd-system-plugin/includes/log/components/class-plugin.php:238
+msgctxt "1: Plugin name, 2: Old plugin version, 3: New plugin version"
+msgid "\"%1$s\" plugin updated from %2$s to %3$s"
+msgstr "\"%1$s\" (plugin) päivitetty versiosta %2$s versioon %3$s"
+
+#: gd-system-plugin/includes/log/components/class-post.php:49
+#: gd-system-plugin/includes/log/components/class-post.php:59
+msgctxt "1: Post title, 2: Post type singular name"
+msgid "\"%1$s\" %2$s updated"
+msgstr "\"%1$s\" %2$s päivitetty"
+
+#: gd-system-plugin/includes/log/components/class-post.php:70
+msgctxt "1: Post title, 2: Post type singular name"
+msgid "\"%1$s\" %2$s created"
+msgstr "\"%1$s\" %2$s luotu"
+
+#: gd-system-plugin/includes/log/components/class-post.php:81
+msgctxt "1: Post title, 2: Post type singular name"
+msgid "\"%1$s\" %2$s restored from trash"
+msgstr "\"%1$s\" %2$s palautettu roskakorista"
+
+#: gd-system-plugin/includes/log/components/class-post.php:91
+msgctxt "1: Post title, 2: Post type singular name"
+msgid "\"%1$s\" %2$s unpublished"
+msgstr "\"%1$s\" %2$s julkaisematon"
+
+#: gd-system-plugin/includes/log/components/class-post.php:101
+msgctxt "1: Post title, 2: Post type singular name"
+msgid "\"%1$s\" %2$s drafted"
+msgstr "\"%1$s\" %2$s luonnosteltu"
+
+#: gd-system-plugin/includes/log/components/class-post.php:111
+msgctxt "1: Post title, 2: Post type singular name"
+msgid "\"%1$s\" %2$s pending review"
+msgstr "\"%1$s\" %2$s odottaa tarkastusta"
+
+#: gd-system-plugin/includes/log/components/class-post.php:131
+msgctxt "1: Post title, 2: Post type singular name"
+msgid "\"%1$s\" scheduled %2$s published"
+msgstr "\"%1$s\" ajoitettu %2$s julkaistu"
+
+#: gd-system-plugin/includes/log/components/class-post.php:141
+msgctxt "1: Post title, 2: Post type singular name"
+msgid "\"%1$s\" %2$s published"
+msgstr "\"%1$s\" %2$s julkaistu"
+
+#: gd-system-plugin/includes/log/components/class-post.php:151
+msgctxt "1: Post title, 2: Post type singular name"
+msgid "\"%1$s\" %2$s privately published"
+msgstr "\"%1$s\" %2$s yksityisesti julkaistu"
+
+#: gd-system-plugin/includes/log/components/class-post.php:162
+msgctxt "1: Post title, 2: Post type singular name"
+msgid "\"%1$s\" %2$s trashed"
+msgstr "\"%1$s\" %2$s siirretty roskakoriin"
+
+#: gd-system-plugin/includes/log/components/class-post.php:121
+msgctxt "1: Post title, 2: Post type singular name, 3: Scheduled post date"
+msgid "\"%1$s\" %2$s scheduled for %3$s"
+msgstr "\"%1$s\" %2$s ajoitettu %3$s"
+
+#: gd-system-plugin/includes/log/components/class-theme.php:48
+msgctxt "Theme name"
+msgid "\"%s\" theme activated"
+msgstr "teema \"%s\" aktivoitu"
+
+#: gd-system-plugin/includes/log/components/class-theme.php:117
+msgctxt "Theme name"
+msgid "\"%s\" theme installed"
+msgstr "Teema \"%s\" asennettu"
+
+#: gd-system-plugin/includes/log/components/class-theme.php:154
+msgctxt "1: theme name, 2: New theme version"
+msgid "\"%1$s\" theme updated to %2$s"
+msgstr "Teema \"%1$s\" päivitetty versioon %2$s"
+
+#: gd-system-plugin/includes/log/components/class-theme.php:162
+msgctxt "1: Theme name, 2: Old theme version, 3: New theme version"
+msgid "\"%1$s\" theme updated from %2$s to %3$s"
+msgstr "Teema \"%1$s\" päivitetty versiosta %2$s versioon %3$s"
+
+#: gd-system-plugin/includes/log/components/class-user.php:99
+msgctxt "1. User display name, 2. User role"
+msgid "%1$s's user account deleted (%2$s)"
+msgstr "Käyttäjän %1$s käyttäjätili poistettu (%2$s)"
+
+#: gd-system-plugin/includes/log/components/class-user.php:138
+msgctxt "User display name"
+msgid "%s's user profile updated"
+msgstr "Käyttäjän %s käyttäjäprofiili päivitetty"
+
+#: gd-system-plugin/includes/log/components/class-user.php:225
+msgctxt "User display name"
+msgid "%s logged in"
+msgstr "%s kirjautunut sisään"
+
+#: gd-system-plugin/includes/log/components/class-user.php:258
+msgctxt "User display name"
+msgid "%s logged out"
+msgstr "%s kirjautunut ulos"
+
+#: gd-system-plugin/includes/log/components/class-user.php:292
+msgctxt "User display name"
+msgid "%s requested a password reset"
+msgstr "%s pyysi salasanan uudelleen asettamista"
+
+#: gd-system-plugin/includes/log/components/class-user.php:324
+msgctxt "User display name"
+msgid "%s's password reset"
+msgstr "Käyttäjän %s salasana on asetettu uudelleen"
+
+#: gd-system-plugin/includes/log/components/class-user.php:180
+msgctxt "1: User display name, 2: Old role, 3: New role"
+msgid "%1$s's role changed from %2$s to %3$s"
+msgstr "Käyttäjän %1$s rooli muutettu roolista %2$s rooliin %3$s"

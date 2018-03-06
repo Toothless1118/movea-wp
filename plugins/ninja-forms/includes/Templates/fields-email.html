@@ -1,0 +1,16 @@
+<script id="tmpl-nf-field-email" type="text/template">
+	<input
+			type="email"
+			value="{{{ data.value }}}"
+			class="{{{ data.renderClasses() }}} nf-element"
+
+			id="nf-field-{{{ data.id }}}"
+			name="nf-field-{{{ data.id }}}"
+			autocomplete="email"
+			{{{ data.renderPlaceholder() }}}
+			{{{ data.maybeDisabled() }}}
+
+			aria-invalid="false"
+			aria-describedby="nf-error-{{{ data.id }}}"
+	>
+</script>

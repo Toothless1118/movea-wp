@@ -1,0 +1,251 @@
+@charset 'UTF-8';
+
+@import url(admin-bar.css);
+
+/* Inline notices */
+
+.wpaas-inline-notice {
+	display: inline-block;
+	background: #fff;
+	border-left: 4px solid #dc3232;
+	padding: 8px 12px;
+	margin: 10px 0;
+
+	-webkit-box-shadow: 0 1px 1px 0 rgba( 0, 0, 0, 0.1 );
+	   -moz-box-shadow: 0 1px 1px 0 rgba( 0, 0, 0, 0.1 );
+	        box-shadow: 0 1px 1px 0 rgba( 0, 0, 0, 0.1 );
+}
+
+@media screen and (max-width: 782px) {
+
+	.wpaas-inline-notice {
+		margin: 5px 0 15px !important;
+	}
+
+}
+
+/* Tips */
+
+div.tooltip.wpaas-tip-display {
+	font-size: 13px;
+	line-height: 1.5;
+}
+
+.plugins .row-actions .wpaas-blacklisted-plugin {
+	color: #000;
+}
+
+/* GoDaddy Tabs */
+
+#toplevel_page_godaddy .wp-menu-image:before {
+	font-family: 'wpaas';
+	content: 'a' !important;
+}
+
+body.toplevel_page_godaddy .dashboard-widgets-wrap {
+	margin: 8px -8px 0 -8px;
+}
+
+/* GoDaddy Help Tab */
+
+.godaddy-tab-help iframe {
+	width: 100%;
+	min-height: 800px;
+	margin-top: 20px;
+}
+
+@media only screen and (max-width: 782px) {
+
+	.godaddy-tab-help iframe {
+		margin-top: 10px;
+	}
+
+}
+
+/* GoDaddy Hire Tab */
+
+.godaddy-tab-hire #TB_title {
+	float: left;
+	height: 1px;
+}
+
+.godaddy-tab-hire #TB_iframeContent {
+	padding-top: 20px;
+}
+
+.godaddy-tab-hire .tb-close-icon {
+	display: none;
+}
+
+.godaddy-tab-hire #TB_closeWindowButton {
+	left: auto;
+	right: -30px;
+	color: #eee;
+}
+
+.godaddy-tab-hire #TB_closeWindowButton:after {
+	content: "\f335";
+	font: normal 32px/29px 'dashicons';
+	speak: none;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.godaddy-tab-hire #TB_window.thickbox-loading:before {
+	content: "";
+	display: block;
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	z-index: -1;
+	margin: -10px 0 0 -10px;
+	background: #fcfcfc url(/wp-admin/images/spinner-2x.gif) no-repeat center;
+	-webkit-background-size: 20px 20px;
+	background-size: 20px 20px;
+	-webkit-transform: translateZ(0);
+	transform: translateZ(0);
+}
+
+.godaddy-tab-hire .metabox-holder h2.hndle {
+	font-size: 14px;
+	padding: 8px 12px;
+	margin: 0;
+	line-height: 1.4;
+	font-weight: 600;
+}
+
+.godaddy-tab-hire .metabox-holder .hndle {
+	cursor: default;
+}
+
+.godaddy-tab-hire #normal-sortables .postbox {
+	float: left;
+	max-width: 700px;
+	width: 35%;
+	margin: 0 8px;
+}
+
+.godaddy-tab-hire #normal-sortables .postbox .inside .featured-image {
+	margin: 4px 30px 4px 4px;
+	float: left;
+}
+
+.godaddy-tab-hire #normal-sortables .postbox .inside .featured-image img {
+	max-width: 100%;
+	width: auto;
+	margin-right: 10px;
+}
+
+.godaddy-tab-hire #normal-sortables .postbox .inside .submit {
+	padding: 0 0 1em 0;
+}
+
+.godaddy-tab-hire #normal-sortables .postbox .inside .submit .button {
+	margin-right: 8px;
+}
+
+.godaddy-tab-hire #normal-sortables .postbox .inside .submit span {
+	margin-left: 1px;
+	width: 12px;
+	line-height: 28px;
+	font-size: 16px;
+}
+
+.godaddy-tab-hire .option-hide {
+	margin-left: 15px;
+	padding-top: 20px;
+}
+
+@media only screen and (max-width: 782px) {
+
+	.godaddy-tab-hire #normal-sortables .postbox {
+		width: 100%;
+		margin: 0 0 8px;
+	}
+
+	.godaddy-tab-hire #normal-sortables .postbox .inside .featured-image {
+		float: none;
+		width: 100%;
+		margin: 0;
+	}
+
+	.godaddy-tab-hire #normal-sortables .postbox .inside .submit span {
+		line-height: 20px;
+	}
+
+}
+
+/* GoDaddy Plugin Partners Tab */
+
+.godaddy-tab-plugins #welcome-panel {
+	padding: 23px 10px;
+	background: none;
+	border: none;
+
+	-webkit-box-shadow: none;
+	        box-shadow: none;
+}
+
+.godaddy-tab-plugins .welcome-panel-content {
+	margin: 0;
+}
+
+.godaddy-tab-plugins .welcome-panel-content h2 {
+	margin-bottom: 10px;
+}
+
+/* GoDaddy Garage Dashboard Widget */
+
+#wpaas_dashboard_godaddy_garage .inside {
+	margin: 0;
+	padding: 0;
+}
+
+#wpaas_dashboard_godaddy_garage .widget-loading,
+#wpaas_dashboard_godaddy_garage .dashboard-widget-control-form {
+	padding: 12px 12px 0;
+}
+
+#wpaas_dashboard_godaddy_garage .rss-widget {
+	border-bottom: 1px solid #eee;
+	font-size: 13px;
+	padding: 8px 12px 10px;
+}
+
+#wpaas_dashboard_godaddy_garage .rss-widget:last-child {
+	border-bottom: none;
+	padding-bottom: 8px;
+}
+
+#wpaas_dashboard_godaddy_garage .rss-widget a {
+	font-weight: normal;
+}
+
+#wpaas_dashboard_godaddy_garage .rss-widget span,
+#wpaas_dashboard_godaddy_garage .rss-widget span.rss-date {
+	color: #777;
+}
+
+#wpaas_dashboard_godaddy_garage .rss-widget span.rss-date {
+	margin-left: 12px;
+}
+
+#wpaas_dashboard_godaddy_garage .rss-widget ul li {
+	margin-bottom: 8px;
+}
+
+/* File Editor */
+
+body.wpaas-hide-file-editor #wpbody-content .wrap {
+	display: none;
+}
+
+/* Sidekick */
+
+.themes-php.customize-active div#sidekick,
+.themes-php.customize-loading div#sidekick,
+body.wp-customizer div#sidekick {
+	display: none;
+}

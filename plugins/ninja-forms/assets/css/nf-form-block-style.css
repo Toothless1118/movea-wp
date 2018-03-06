@@ -1,0 +1,13 @@
+.nf-iframe-container {
+	position: relative;
+}
+.nf-iframe-overlay {
+	position: absolute;
+	top: 0; right: 0; bottom: 0; left: 0;
+}
+.nf-block-form-selector {
+	background-color: lightgrey;
+	border-bottom: 1px solid;
+	margin-bottom: 5px;
+	padding: 4px;
+}

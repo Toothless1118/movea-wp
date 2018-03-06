@@ -1,0 +1,66 @@
+# Copyright (C) 2014 WP101 Video Tutorials
+# This file is distributed under the same license as the WP101 Video Tutorials package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP101 Video Tutorials 0.3\n"
+"POT-Creation-Date: 2014-12-03 18:20:30+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+
+#: wp101-video-tutorial.php:33
+msgctxt "page title"
+msgid "WP101"
+msgstr ""
+
+#: wp101-video-tutorial.php:33
+msgctxt "menu title"
+msgid "Video Tutorials"
+msgstr ""
+
+#: wp101-video-tutorial.php:144
+msgctxt "h2 title"
+msgid "WordPress Video Tutorials"
+msgstr ""
+
+#: wp101-video-tutorial.php:150
+msgid ""
+"We are having a little trouble loading the latest help videos. Please try "
+"again later."
+msgstr ""
+
+#: wp101-video-tutorial.php:152
+msgid ""
+"This version of WP101 is meant to be used with a Managed WordPress hosting "
+"partner. To otherwise view WP101 tutorial videos, please <a href=\"%s"
+"\">subscribe at WP101.com</a>."
+msgstr ""
+
+#: wp101-video-tutorial.php:154
+msgid "<strong class=\"wp101-valid-key\">WP101 is ready to go!</strong>"
+msgstr ""
+
+#: wp101-video-tutorial.php:171
+msgid "The requested tutorial could not be found"
+msgstr ""
+
+#: wp101-video-tutorial.php:190
+msgid "Video Tutorials"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP101 Video Tutorials"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "WordPress video tutorials, delivered right in your dashboard."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WP101Plugin.com"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wp101plugin.com/"
+msgstr ""

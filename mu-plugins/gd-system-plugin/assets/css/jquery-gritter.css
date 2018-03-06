@@ -1,0 +1,112 @@
+#gritter-notice-wrapper {
+	position: fixed;
+	top: 52px;
+	right: 20px;
+	width: 300px;
+	z-index: 99999;
+	font-family: "Open Sans", sans-serif !important;
+
+	 -webkit-font-smoothing: antialiased !important;
+	-moz-osx-font-smoothing: grayscale !important;
+	            font-smooth: always !important;
+}
+
+#gritter-notice-wrapper.top-left {
+	left: 20px;
+	right: auto;
+}
+
+#gritter-notice-wrapper.bottom-right {
+	top: auto;
+	left: auto;
+	bottom: 20px;
+	right: 20px;
+}
+
+#gritter-notice-wrapper.bottom-left {
+	top: auto;
+	right: auto;
+	bottom: 20px;
+	left: 20px;
+}
+
+.gritter-item-wrapper {
+	position: relative;
+	margin: 0 0 10px 0;
+}
+
+.gritter-top,
+.gritter-bottom {
+	display: none;
+}
+
+.gritter-item {
+	display: block;
+	background: #222; /* Fallback */
+	background: rgba(0, 0, 0, 0.8);
+	color: #eee !important;
+}
+
+.gritter-item:before {
+	float: left;
+	font: 40px/1 dashicons;
+	content: '\f147';
+	color: #32cd32;
+	margin: 15px 0 0 10px;
+}
+
+.gritter-item .gritter-with-image,
+.gritter-item .gritter-without-image {
+	padding: 20px 40px 20px 60px;
+	word-wrap: break-word;
+}
+
+.gritter-item p {
+	padding: 0 !important;
+	margin: 0 !important;
+	font-size: 13px !important;
+	line-height: 20px !important;
+}
+
+.gritter-close {
+	display: none;
+	float: right;
+	margin: 10px 10px 0 0;
+	cursor: pointer;
+	width: 24px;
+	height: 24px;
+}
+
+.gritter-close:before {
+	font: 24px/1 dashicons;
+	content: '\f153';
+}
+
+.gritter-title {
+	display: block !important;
+	font-size: 15px !important;
+	line-height: 22px !important;
+	font-weight: bold !important;
+	padding: 0 0 7px !important;
+}
+
+@media only screen and (max-width: 782px) {
+
+	#gritter-notice-wrapper {
+		position: absolute;
+		top: 66px;
+	}
+
+	.gritter-close {
+		display: block !important;
+	}
+
+}
+
+@media only screen and (max-width: 600px) {
+
+	#gritter-notice-wrapper {
+		width: calc(100% - 40px);
+	}
+
+}

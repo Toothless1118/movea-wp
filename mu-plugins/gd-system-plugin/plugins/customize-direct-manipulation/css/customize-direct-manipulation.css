@@ -1,0 +1,136 @@
+.cdm-icon {
+	fill: #fff;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 30px;
+	height: 30px;
+	font-size: 18px;
+	z-index: 99999; /* override child theme z-index declarations */
+	background: #0087BE;
+	border-radius: 50%;
+	border: 2px solid #fff;
+	box-shadow: 0 2px 1px rgba(46,68,83,0.15);
+	text-align: center;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	cursor: pointer;
+	animation-name: bounce-appear;
+	animation-delay: 0.8s;
+	animation-duration: 1s;
+	animation-fill-mode: both;
+	animation-duration: .75s;
+}
+
+.cdm-icon:hover {
+	background: #008ec2;
+	border-color: #191e23;
+}
+
+.cdm-icon--hidden {
+	display: none;
+}
+
+.cdm-icon svg {
+	width: 18px;
+}
+
+.cdm-icon--text {
+	margin-left: -2em;
+}
+
+.cdm-icon--header-image {
+	margin: 10px;
+}
+
+@keyframes bounce-appear {
+	from, 20%, 40%, 60%, 80%, to {
+		animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);
+	}
+	0% {
+		opacity: 0;
+		transform: scale3d(.3, .3, .3);
+	}
+	20% {
+		transform: scale3d(1.1, 1.1, 1.1);
+	}
+	40% {
+		transform: scale3d(.9, .9, .9);
+	}
+	60% {
+		opacity: 1;
+		transform: scale3d(1.03, 1.03, 1.03);
+	}
+	80% {
+		transform: scale3d(.97, .97, .97);
+	}
+	to {
+		opacity: 1;
+		transform: scale3d(1, 1, 1);
+	}
+}
+
+/**
+ * Icon Background Color Overrides
+ * Matches the admin color scheme of the current user
+**/
+/**
+ * Icon Background Color Overrides
+ * Matches the admin color scheme of the current user
+**/
+body.admin-scheme-blue .cdm-icon,
+body.admin-scheme-blue .customize-partial-edit-shortcut button,
+body.admin-scheme-blue .customize-partial-edit-shortcut button:hover {
+	background: #E1A932 !important;
+}
+
+body.admin-scheme-coffee .cdm-icon,
+body.admin-scheme-coffee .customize-partial-edit-shortcut button,
+body.admin-scheme-coffee .customize-partial-edit-shortcut button:hover {
+	background: #c7a589 !important;
+}
+
+body.admin-scheme-ectoplasm .customize-partial-edit-shortcut button,
+body.admin-scheme-ectoplasm .customize-partial-edit-shortcut button:hover,
+body.admin-scheme-ectoplasm .cdm-icon {
+	background: #a3b745 !important;
+}
+
+body.admin-scheme-midnight .customize-partial-edit-shortcut button,
+body.admin-scheme-midnight .customize-partial-edit-shortcut button:hover,
+body.admin-scheme-midnight .cdm-icon  {
+	background: #e14d43 !important;
+}
+
+body.admin-scheme-ocean .customize-partial-edit-shortcut button,
+body.admin-scheme-ocean .customize-partial-edit-shortcut button:hover,
+body.admin-scheme-ocean .cdm-icon {
+	background: #9ebaa0 !important;
+}
+
+body.admin-scheme-sunrise .customize-partial-edit-shortcut button,
+body.admin-scheme-sunrise .customize-partial-edit-shortcut button:hover,
+body.admin-scheme-sunrise .cdm-icon {
+	background: #dd823b !important;
+}
+
+body.admin-scheme-godaddy .customize-partial-edit-shortcut button,
+body.admin-scheme-godaddy .customize-partial-edit-shortcut button:hover,
+body.admin-scheme-godaddy .cdm-icon {
+	background: #EF6C0F !important;
+}
+
+/**
+ * Theme overrides
+ */
+.cdm-icon.primer.footer-widget,
+.cdm-icon.scribbles.footer-widget,
+.cdm-icon.lyrical.page-builder-widget {
+	margin-left: 0;
+}
+
+.cdm-icon.ascension.hero-widget {
+	margin-left: -1.5em;
+}
